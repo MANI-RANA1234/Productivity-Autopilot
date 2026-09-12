@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Cyan Compass Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,26 A28,28 0 1,0 54,82 A28,28 0 1,0 54,26 Z" />
+
+    <!-- Stylized Futuristic Autopilot 'A' / Chevron -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,34 L72,70 L64,70 L54,52 L44,70 L36,70 Z" />
+
+    <!-- Inner Accent Wing / Core -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,44 L60,58 L54,55 L48,58 Z" />
+
+    <!-- Top Apex Accent Dot -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,26 A3,3 0 1,0 54,32 A3,3 0 1,0 54,26 Z" />
+</vector>
