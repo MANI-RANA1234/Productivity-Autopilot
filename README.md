@@ -187,8 +187,17 @@ Current status: Functional V1 / portfolio-ready prototype. Build-verified succes
 
 ## Screenshots
 
-> Screenshots will be added here.
+### Home
+![Home Screen](Home.jpg)
 
+### Tasks
+![Tasks Screen](Tasks.jpg)
+
+### Statistics
+![Statistics Screen](Stats.jpg)
+
+### Settings
+![Settings Screen](Settings.jpg)
 ---
 
 ## License
