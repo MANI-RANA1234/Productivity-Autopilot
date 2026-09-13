@@ -186,7 +186,8 @@ Current status: Functional V1 / portfolio-ready prototype. Build-verified succes
 ---
 
 ## Screenshots
-(screenshot1.png)
+
+![Productivity Autopilot Screenshots](screenshot1.png)
 
 ---
 
