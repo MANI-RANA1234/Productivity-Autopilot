@@ -186,7 +186,7 @@ Current status: Functional V1 / portfolio-ready prototype. Build-verified succes
 ---
 
 ## Screenshots
-(Screenshot1.jpg)
+(screenshot1.jpg)
 
 ---
 
